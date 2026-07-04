@@ -1,6 +1,6 @@
 # Zepper
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/danwdart/zepper.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/emberdart/zepper.svg)](https://greenkeeper.io/)
 
 ## Naming
 

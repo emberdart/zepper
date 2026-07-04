@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danwdart/zepper.git"
+    "url": "git+https://github.com/emberdart/zepper.git"
   },
   "keywords": [
     "page",
     "group",
     "grouper"
   ],
-  "author": "Dan Dart <git@dandart.co.uk>",
+  "author": "Ember Dart <git@emberdart.co.uk>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danwdart/zepper/issues"
+    "url": "https://github.com/emberdart/zepper/issues"
   },
-  "homepage": "https://github.com/danwdart/zepper#readme",
+  "homepage": "https://github.com/emberdart/zepper#readme",
   "dependencies": {
     "@snyk/protect": "^1.1294.0",
     "levenshtein": "^1.0.5",
